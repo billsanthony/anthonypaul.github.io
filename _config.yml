@@ -13,7 +13,7 @@
 title: My Website
 
 # Your name to show in the footer
-author: Some Person
+author: billsanthony 
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://anthonypaul.tech.com"
+  Author's home: "https://billsanthony.github.io/"
 
 ################
 # --- Logo --- #

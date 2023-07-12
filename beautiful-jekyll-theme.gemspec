@@ -3,7 +3,7 @@
 Gem::Specification.new do |spec|
   spec.name          = "beautiful-jekyll-theme"
   spec.version       = "6.0.1"
-  spec.authors       = ["bilssanthony]
+  spec.authors       = ["billsanthony]
   spec.email         = ["anthonypaulakpan@gmail.com"]
 
   spec.summary       = "Beautiful Jekyll is a ready-to-use Jekyll theme to help you create an awesome website quickly. Perfect for personal blogs or simple project websites, with a focus on responsive and clean design."
@@ -14,7 +14,7 @@ Gem::Specification.new do |spec|
 
   spec.metadata      = {
     "changelog_uri"     => "https://beautifuljekyll.com/updates/",
-    "documentation_uri" => "https://github.com/onyinye123/beautiful-jekyll#readme"
+    "documentation_uri" => "https://github.com/billsanthony/beautiful-jekyll#readme"
   }
 
   spec.add_runtime_dependency "jekyll", "~> 3.9.3"
